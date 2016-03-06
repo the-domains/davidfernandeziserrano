@@ -1,6 +1,6 @@
 name: David Fernández i Serrano
 favicon: null
-layout_spectrum: 0.9812329264823347
+layout_spectrum: 0.00477
 typography_spectrum: 0.2410942104179412
 title: David Fernández i Serrano personal site
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6904697646386921
+  brandStrength: 1
   lightness: 0.8465439535211772
-  saturation: 0.061020162887871265
+  saturation: 0.0625
   rhythmicContrast: 0.2526265785563737
 purpose: []
