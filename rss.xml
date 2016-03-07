@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[David Fernández i Serrano personal site]]></title>
         <description><![CDATA[David Fernández i Serrano personal site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://davidfernandez.email/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:11:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 19:11:37 GMT</lastBuildDate>
+        <atom:link href="http://davidfernandez.email/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adc1a204-1a0e-4e17-80fd-bb6cd505b4d4.jpg">]]></description>
-            <link>undefined376e71ee-6a44-4c6c-8736-8b29e28a8818/index.html</link>
+            <link>http://davidfernandez.email/376e71ee-6a44-4c6c-8736-8b29e28a8818/index.html</link>
             <guid isPermaLink="false">376e71ee-6a44-4c6c-8736-8b29e28a8818</guid>
-            <pubDate>Mon, 07 Mar 2016 19:11:07 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 19:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
