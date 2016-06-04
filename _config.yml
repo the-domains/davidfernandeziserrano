@@ -1,29 +1,41 @@
-name: David Fernández i Serrano
-favicon: null
-layout_spectrum: 0.00477
-typography_spectrum: 0.2410942104179412
 title: David Fernández i Serrano personal site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.697637
+  brandStrength: 0.0625
+  lightness: 0.8609022
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.0625
-  lightness: 0.8465439535211772
-  saturation: 1
-  rhythmicContrast: 0.2526265785563737
-purpose: []
+  rhythmicContrast: 0.8909774
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: David Fernández i Serrano
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1562836
+layout_spectrum: 0
